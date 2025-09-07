@@ -77,7 +77,7 @@ A: 不会。脚本只修改元素的display样式，不会影响网站的核心�
 ## 支持与反馈
 
 如果您遇到任何问题或有改进建议，请：
-1. 在[GitHub Issues](https://github.com/你的用户名/你的仓库名/issues)中提交问题
+1. 在[GitHub Issues](https://github.com/qingkong9579/ynlib-viewer-optimizer/issues)中提交问题
 2. 提供详细的描述和重现步骤
 3. 附上浏览器版本和操作系统信息
 
