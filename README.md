@@ -2,6 +2,16 @@
 
 该用户脚本用于优化云南古籍数字图书馆（msq.ynlib.cn）的阅读器界面，自动显示被隐藏的功能元素。
 
+## 使用效果,以 http://msq.ynlib.cn/frontend/viewer.html?typeId=80&bookId=apb29010446-0001#/page=1&viewer=picture 为例
+
+- 使用前
+<img width="2505" height="1446" alt="image" src="https://github.com/user-attachments/assets/5534899b-7b0a-4e25-8355-e81191b4f745" />
+
+- 使用后
+<img width="2505" height="1446" alt="image" src="https://github.com/user-attachments/assets/faad2984-be6d-4d15-aab0-bff6261d132b" />
+
+
+
 ## 功能特性
 
 - 🔍 **自动显示隐藏元素**：检测并显示所有被隐藏的 `.bottom_bt` 类元素
