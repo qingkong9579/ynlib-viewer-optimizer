@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         云南古籍数字图书馆界面隐藏功能显现 - msq.ynlib.cn
-// @namespace    https://github.com/你的用户名/你的仓库名
+// @namespace    https://github.com/qingkong9579/ynlib-viewer-optimizer
 // @version      1.0.0
 // @description  精确显示bottom_bt类的元素，增强云南古籍数字图书馆用户体验
 // @author       微茫之心
